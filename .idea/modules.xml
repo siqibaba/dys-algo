@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/10.堆/10.堆.iml" filepath="$PROJECT_DIR$/demo/10.堆/10.堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/11.散列/11.散列.iml" filepath="$PROJECT_DIR$/demo/11.散列/11.散列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/12.宽度优先搜索/12.宽度优先搜索.iml" filepath="$PROJECT_DIR$/demo/12.宽度优先搜索/12.宽度优先搜索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/13.深度优先搜索/13.深度优先搜索.iml" filepath="$PROJECT_DIR$/demo/13.深度优先搜索/13.深度优先搜索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/14.字符串/14.字符串.iml" filepath="$PROJECT_DIR$/demo/14.字符串/14.字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/15.有序树/15.有序树.iml" filepath="$PROJECT_DIR$/demo/15.有序树/15.有序树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/16.并查集/16.并查集.iml" filepath="$PROJECT_DIR$/demo/16.并查集/16.并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/17.动态规划/17.动态规划.iml" filepath="$PROJECT_DIR$/demo/17.动态规划/17.动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/3.链表/3.链表.iml" filepath="$PROJECT_DIR$/demo/3.链表/3.链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/4.栈/4.栈.iml" filepath="$PROJECT_DIR$/demo/4.栈/4.栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/5.对列/5.对列.iml" filepath="$PROJECT_DIR$/demo/5.对列/5.对列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/6.二分查找/6.二分查找.iml" filepath="$PROJECT_DIR$/demo/6.二分查找/6.二分查找.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/7.双指针/7.双指针.iml" filepath="$PROJECT_DIR$/demo/7.双指针/7.双指针.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/8.排序/8.排序.iml" filepath="$PROJECT_DIR$/demo/8.排序/8.排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/9.树/9.树.iml" filepath="$PROJECT_DIR$/demo/9.树/9.树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dys-algo.iml" filepath="$PROJECT_DIR$/dys-algo.iml" />
+    </modules>
+  </component>
+</project>

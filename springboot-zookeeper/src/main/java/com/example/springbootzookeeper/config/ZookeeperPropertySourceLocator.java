@@ -26,7 +26,7 @@ public class ZookeeperPropertySourceLocator implements PropertySourceLocator{
 
     public ZookeeperPropertySourceLocator() {
         curatorFramework= CuratorFrameworkFactory.builder()
-                .connectString("192.168.221.128:2181")
+                .connectString("127.0.0.1:2181")
                 .sessionTimeoutMs(20000)
                 .connectionTimeoutMs(20000)
                 .retryPolicy(new ExponentialBackoffRetry(1000,3))
